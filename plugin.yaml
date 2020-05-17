@@ -1,0 +1,15 @@
+---
+game: "DiRT Rally"
+api: 1
+steamID: 310560
+uid: "com.thegreatcabbage.dirtrally"
+author: "TheGreatCabbage"
+packageName: "dirtrally"
+features:
+- "graphics"
+gameDirectory: "DiRT Rally"
+verificationPaths:
+- "drt.exe"
+graphicsConfig: "$!DOCUMENTS!$/My Games/DiRT Rally/hardwaresettings/hardware_settings_config.xml"
+keymapConfig: null
+savesFolder: null
